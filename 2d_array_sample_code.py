@@ -108,4 +108,6 @@ for activity in activities:
     for data in activity:
         print(data)
 
-pprint(activities)
+print(activities)
+
+print(activities[0])
